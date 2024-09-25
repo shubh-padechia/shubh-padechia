@@ -1,4 +1,3 @@
-
 Edited this thing after more than an year now & yet I have no idea how stuff works. But I'll figure it out, so well. (As of 23/09)
 <!--
 **shubh-padechia/shubh-padechia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
